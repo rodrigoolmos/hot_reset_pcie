@@ -5,6 +5,7 @@ this repository contains a way to make and test a hot reset pcie for FPGAs
 # USE BASH SCRIPT
 
 ```plaintext
+sudo su
 bash safe-remove.sh 01:00.0
 ```
 
