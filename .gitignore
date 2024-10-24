@@ -1,0 +1,20 @@
+# Ignorar el directorio de compilación
+build/
+
+# Ignorar archivos de salida de compilación
+*.o
+*.exe
+*.out
+*.app
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos de editor
+*.swp
+*.swo
+*.swn
+*.bak
+
+# Ignorar archivos de backup
+*~
